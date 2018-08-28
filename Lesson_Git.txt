@@ -6,5 +6,6 @@ class Program
     { 
         Console	.WriteLine("Hello world!");
         Console	.WriteLine("First commit");
+        Console	.WriteLine("First commit");
     } 
 } 
